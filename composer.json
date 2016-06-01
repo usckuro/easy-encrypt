@@ -1,0 +1,11 @@
+{
+  "name":"usckuro/easy-encrypt",
+  "description":"easy encrypt methods",
+  "keywords": [
+    "encrypt",
+    "decrypt"
+  ],
+  "autoload": {
+    "psr-4": {"EasyEncrypt\\Encrypt\\": "src/"}
+  }
+}
